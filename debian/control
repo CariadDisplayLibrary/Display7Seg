@@ -12,4 +12,4 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Fonts
 Depends: libdisplaycore-core
 Provides: Display7Seg.h
-Description: 7 Segment Display font for DisplayCore
+Description: 7 Segment Display
