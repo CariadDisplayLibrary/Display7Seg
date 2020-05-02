@@ -1,7 +1,7 @@
 #ifndef _DISPLAY7SEG_H
 #define _DISPLAY7SEG_H
 
-#include <DisplayCore.h>
+#include <Cariad.h>
 
 namespace Fonts {
     extern const uint8_t Display7Seg32[];
